@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/C304_L11-L12/static/css/main.2098db3e.css",
+    "main.js": "/C304_L11-L12/static/js/main.a2d0dd62.js",
+    "index.html": "/C304_L11-L12/index.html",
+    "main.2098db3e.css.map": "/C304_L11-L12/static/css/main.2098db3e.css.map",
+    "main.a2d0dd62.js.map": "/C304_L11-L12/static/js/main.a2d0dd62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2098db3e.css",
+    "static/js/main.a2d0dd62.js"
+  ]
+}
